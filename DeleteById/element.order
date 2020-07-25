@@ -1,0 +1,6 @@
+GetUserBYId
+PostAUser
+GetBYParam
+PostSeconderyUser
+DeleteByHeader
+DeleteById

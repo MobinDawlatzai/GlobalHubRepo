@@ -1,0 +1,11 @@
+GetUserBYId\Id.xml
+PostAUser\Users.xml
+GetBYParam\Byparam.xml
+PostSeconderyUser\Secondaryuser.xml
+DeleteByHeader\Byheader.xml
+DeleteById\Id.xml
+FirstSuite\GetData.xml
+FirstSuite\PostingData.xml
+SecondSuite\CreatUser.xml
+SecondSuite\GetUser.xml
+SecondSuite\DeletePrimaryUser.xml
