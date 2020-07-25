@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:soapui-project id="da90ec69-21f1-4dbf-99fb-7dd9c314b341" created="3.3.0" activeEnvironment="Default environment" name="API-Automation" compositeProjectFormat="1.3" updated="3.3.0" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.ProTestRunnerUIAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+<con:soapui-project id="da90ec69-21f1-4dbf-99fb-7dd9c314b341" created="3.3.0" activeEnvironment="Default environment" name="API-Automation" compositeProjectFormat="1.3" updated="3.3.0" encryptionMode="Not encrypted" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.ProTestRunnerUIAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
   <con:entry key="Report Format(s)" value="XML"/>
   <con:entry key="Host:Port" value=""/>
   <con:entry key="Export JUnit Results" value="true"/>
@@ -35,7 +35,7 @@
   <con:entry key="Domain" value=""/>
   <con:entry key="Tool Args" value=""/>
   <con:entry key="Save Project" value="false"/>
-</xml-fragment>]]></con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:requirements/><con:properties/><con:wssContainer/><con:databaseConnectionContainer><con:databaseConnection><con:name>TestDataBase</con:name><con:driver>com.mysql.jdbc.Driver</con:driver><con:connectionString>jdbc:mysql://us-cdbr-east-02.cleardb.com:3306/heroku_2530dcf8cf9e755?user=be8a5abcd4f8c4&amp;password=PASS_VALUE</con:connectionString><con:password>46eade06</con:password><con:connectionProperties/></con:databaseConnection></con:databaseConnectionContainer><con:jmsConnectionContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:reporting/><con:eventHandlers type="RequestFilter.filterRequest" name="RequestFilter.filterRequest"><con:script>// Sample event script to add custom HTTP header to all outgoing REST, SOAP and HTTP(S) calls
+</xml-fragment>]]></con:setting><con:setting id="da90ec69-21f1-4dbf-99fb-7dd9c314b341fileName">API-Automation-readyapi-project</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:requirements/><con:properties/><con:wssContainer/><con:databaseConnectionContainer><con:databaseConnection><con:name>TestDataBase</con:name><con:driver>com.mysql.jdbc.Driver</con:driver><con:connectionString>jdbc:mysql://us-cdbr-east-02.cleardb.com:3306/heroku_2530dcf8cf9e755?user=be8a5abcd4f8c4&amp;password=PASS_VALUE</con:connectionString><con:password>46eade06</con:password><con:connectionProperties/></con:databaseConnection></con:databaseConnectionContainer><con:jmsConnectionContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:eventHandlers type="RequestFilter.filterRequest" name="RequestFilter.filterRequest"><con:script>// Sample event script to add custom HTTP header to all outgoing REST, SOAP and HTTP(S) calls
 // This code is often used for adding custom authentication to SoapUI Pro tests
 
 // If hardcoding the token, uncomment and change line 5
